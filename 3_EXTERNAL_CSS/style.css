@@ -1,3 +1,9 @@
 h1 {
     color: brown;
 }
+
+p {
+    color: burlywood;
+    background: dimgrey;
+    font-size: 24px;
+}
